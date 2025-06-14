@@ -95,7 +95,7 @@ g++ banking_system.cpp -o bank
 5. Exit
 Enter your choice: 1
 
-Enter Account Holder Name: Kavya
+Enter Account Holder Name: Jasrin Banu
 Enter Initial Deposit: 1000
 Account created successfully!
 
@@ -106,7 +106,7 @@ Deposit successful. New balance: 1500
 
 Enter your choice: 4
 Enter account number: 1001
-Account Holder: Kavya
+Account Holder: Jasrin banu
 Balance: 1500
 
 Enter your choice: 5
